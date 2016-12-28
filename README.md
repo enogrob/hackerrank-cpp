@@ -15,7 +15,7 @@ Learn everything you need to about the subject of this `Hackerrank C++` project.
 
 ## Topics
 ```
-[ ] Introduction
+[~] Introduction
 [ ] Classes
 [ ] Inheritance
 [ ] Strings
