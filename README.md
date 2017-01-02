@@ -15,10 +15,7 @@ Learn everything you need to about the subject of this `Hackerrank C++` project.
 
 ## Topics
 ```
-[~] Introduction
-[ ] Classes
-[ ] Inheritance
-[ ] Strings
-[ ] STL
-[ ] Other Concepts
+[x] cpp-strings
+[~] cpp-variable-sized-arrays
+:
 ```
