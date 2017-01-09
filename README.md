@@ -15,6 +15,7 @@ Learn everything you need to about the subject of this `Hackerrank C++` project.
 
 ## Topics
 ```
+[x] cpp-stringstream
 [x] cpp-strings
 [~] cpp-variable-sized-arrays
 :
